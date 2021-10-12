@@ -3,6 +3,6 @@ public class Main{
         String txt="Hello World";
         System.out.println(txt.toUpperCase());
         //To lower case
-        
+        System.out.println(txt.toLoweCase());
     }
 }
